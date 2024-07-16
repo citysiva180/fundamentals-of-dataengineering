@@ -1,0 +1,41 @@
+██████╗  █████╗ ████████╗ █████╗     ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ ██╗███╗   ██╗ ██████╗ 
+██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗██║████╗  ██║██╔════╝ 
+██║  ██║███████║   ██║   ███████║    █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝██║██╔██╗ ██║██║  ███╗
+██║  ██║██╔══██║   ██║   ██╔══██║    ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗██║██║╚██╗██║██║   ██║
+██████╔╝██║  ██║   ██║   ██║  ██║    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║██║██║ ╚████║╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+
+Learn ACID, Indexing, Partitioning, Sharding, Concurrency control, Replication, DB Engines, Best Practices and More!
+
+
+
+Introduction 
+
+- course updates
+- ACID 
+- Understanding database internals
+- Database Indexing
+- Binary Tree vs Binary Tree in Production Database 
+- Database Partitioning 
+- Database Sharding 
+- Concurrency Control 
+- Database Replication 
+- Database System Design 
+- Database Engine 
+- Database Cursors 
+- SQL and NO SQL Architecture 
+- Database Security 
+- Homo morphic Encryption - Performing Database Queries on Encrypted Data 
+- Answering your questions 
+- Database Discussions 
+- Archived Lectures
+
+
+ACID : 
+
+Atomicity, Consistency, Isolation and Durability in Relational Databases
+
+- What is a Transaction? 
+- Atomicity 
+- Isolation 
+- 
