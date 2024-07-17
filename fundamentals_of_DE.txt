@@ -8,8 +8,9 @@
 Learn ACID, Indexing, Partitioning, Sharding, Concurrency control, Replication, DB Engines, Best Practices and More!
 
 
-
-Introduction 
++----------------+
+| Course Content | 
++----------------+
 
 - course updates
 - ACID 
@@ -30,12 +31,34 @@ Introduction
 - Database Discussions 
 - Archived Lectures
 
-
-ACID : 
++-------+
+| ACID  | 
++-------+
 
 Atomicity, Consistency, Isolation and Durability in Relational Databases
 
-- What is a Transaction? 
-- Atomicity 
-- Isolation 
+- What is a Transaction? : Understanding what is transactions in Database 
+- Atomicity   : transaction that ensures all operations within a transaction are 
+                treated as a single unit and either succeed or fail together
+- Isolation   : Adding Abstraction / encapsulation to Database records
+- Consistency : Ensuring the transactions result in Consistent data outlook 
+- Durability  : Ability to retrieve data on longer time and endurance to damage  
+
++-------------------------+
+| What is a Transaction?  | 
++-------------------------+
+
+- A collection of Queries : Its treated as one unit of work, since its a combination of multiple 
+                            activities that is going to give you 1 result 
+- One Unit of Work:  This determines the outcome of a transaction to which it delivers 1 successful action 
+- Best Example for this is Account update: Multiple activities such as check on account number and user details and finally updating the account with money value 
+
++-------------------------+
+|  Transaction Lifespan   | 
++-------------------------+
+
+- Transaction BEGIN : Starts everything!
+- Transaction COMMIT : Persist data in Database 
+- Transaction ROLLBACK : Undo everything if something went wrong 
 - 
+
